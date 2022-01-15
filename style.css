@@ -1,12 +1,12 @@
 /* image */
 nav{
-    padding-left: 30px;
+    padding-left: 80px;
 }
 .container{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-left: 30px;
+    padding-left: 80px;
 }
 section{
     width: 100%;
@@ -80,5 +80,5 @@ button{
         
     }
     .Address{
-        padding-left: 60px;
+        padding-left: 120px;
     }
