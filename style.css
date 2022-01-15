@@ -1,0 +1,84 @@
+/* image */
+nav{
+    padding-left: 30px;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+}
+section{
+    width: 100%;
+}
+.flex-box{
+    display: flex;
+    width: 100%;
+}
+.box{
+    width: 50%;
+
+}
+.box img{
+    width: 270px;
+    height: 220px;
+}
+button{
+   padding: 10PX 20PX;
+   border-radius: 20PX;
+   border: none;
+   font-size: 10px;
+   background-color: #E02C6D;
+   color: white;
+}
+.products{
+    display: grid;
+    grid-template-columns: auto auto;
+    width:70px;
+    margin: 0;
+    grid-gap: 15px;
+    padding-left: 20px;
+}
+#heading{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 100px;
+}
+.product{
+    box-shadow: 0 0 10px;
+    padding: 20px;
+}
+.product span{
+    display: flex;
+    align-items: center;
+}
+.icon{
+    display: flex;
+    align-items: center;
+}
+.rating{
+    color: yellow;
+}
+.button{
+    display: block;
+    font-size: 18px;
+    padding-top: 30px;
+    text-align: end;
+        text-decoration: none;
+        color: #E02C6D;;
+    }
+    footer{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: white;
+        background-color: royalblue;
+    }
+    .products img{
+        width: 220px;
+        
+    }
+    .Address{
+        padding-left: 60px;
+    }
